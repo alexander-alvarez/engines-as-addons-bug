@@ -1,0 +1,11 @@
+{
+  "name": "shared-addon",
+  "keywords": [
+    "ember-addon"
+  ],
+  "ember-addon": {
+    "paths": [
+      "lib/my-engine"
+    ]
+  }
+}
